@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on building musical instruments, games, and software
-- 🌱 I’m currently learning how to make research papers
-- 👯 I’m looking to collaborate on data analytics projects
-- 💬 Ask me about anything 
-- 📫 How to reach me: info@newharmonics.net
+- I'm currently working on building musical instruments, games, and software
+- I'm currently learning how to make research papers
+- I'm looking to collaborate on data analytics projects
+- Ask me about anything
+- How to reach me: info@newharmonics.net
