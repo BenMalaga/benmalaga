@@ -1,3 +1,3 @@
 - I'm currently working on building musical instruments, games, and open source software >_
-- I'm currently learning how to make ice cream from scratch <OOo
+- I'm currently learning how to make ice cream from scratch <Oo,
 - How to reach me: info@newharmonics.net <-
