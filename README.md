@@ -1,5 +1,4 @@
 - I'm currently working on building musical instruments, games, and software
-- I'm currently learning how to make research papers
-- I'm looking to collaborate on data analytics projects
-- Ask me about anything
+- I'm currently learning how to make ice cream from scratch
+- Working on music, instruments, and open source software
 - How to reach me: info@newharmonics.net
